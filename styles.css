@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+}
+
+.header{
+    text-align: center;
+    color:white;
+}
+
+.about{
+    background-color:lightgray;
+}
+
+#aboutme{
+    text-align: center;
+    font-size: x-large;
+}
+
+#project{
+    color:white;
+}
+
+.contact{
+    background-color:lightgray;
+}
