@@ -36,3 +36,11 @@ body{
     justify-content: center;
     align-items: center;
 }
+.para{
+    color: white;
+    font-size: medium;
+    font-family: sans-serif;
+    margin: 2rem;
+    text-align: center;
+    padding: 10px 0 5px 0;
+}
