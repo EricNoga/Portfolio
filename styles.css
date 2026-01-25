@@ -24,7 +24,14 @@ body{
     background-color:lightgray;
 }
 
-#container{
+.container{
+    height: 100vh;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+.image{
     display: flex;
     justify-content: center;
     align-items: center;
