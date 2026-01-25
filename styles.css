@@ -24,6 +24,7 @@ body{
     background-color:lightgray;
 }
 
+/* Project 1 CSS - can be moved to the html file if needed */
 .container{
     height: 100vh;
     display: grid;
